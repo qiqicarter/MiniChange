@@ -46,5 +46,7 @@ input[type=submit]:disabled{background:#999;cursor:no-drop;}
 <div id="top"><h1>${text}</h1></div>
 <div id="top"><h2>${last}</h2></div>
 
+<a href="gift">返回</a>
+
 </body>
 </html>
